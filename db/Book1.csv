@@ -1,4 +1,2 @@
-name,age,work
-dave,12,assassin
-tisoy,21,farmer
-mark,19,water
+name,code,units,instructor_name,section_name,date_created
+dave,12,3,One Two Three,sample,24/06/2023
